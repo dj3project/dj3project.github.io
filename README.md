@@ -1,2 +1,4 @@
-# companyprofile
-Silahkan dikembangkan lagi
+# tugas uts
+DIMAS ILLI 
+NIM 31212149
+MI 2021 KIP P3
